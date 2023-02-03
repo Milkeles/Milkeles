@@ -9,10 +9,8 @@
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 
-<div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=milkeles&show_icons=true&border_color=92B304&theme=merko" />
- <img class="img" src="https://streak-stats.demolab.com/?user=milkeles&border=92B304&theme=merko" />
-</div>
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=milkeles&show_icons=true&border_color=92B304&theme=merko" /> |
+ <a href="#"><img align="center" src="https://streak-stats.demolab.com/?user=milkeles&border=92B304&theme=merko" /> |
 
 <div align = "center">
    <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkeles&layout=compact&show_icons=true&border_color=92B304&theme=merko" />

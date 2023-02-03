@@ -9,7 +9,7 @@ I am a computer science and software engineering enthusiast who is passionate ab
 
 I was first allured to computer science at a young age by the idea of creating video games and bringing my dreams to life through code. I still adore game development as it allows one to bring their imagination to life, create worlds and stories, and provide endless hours of entertainment and joy to people. 
 
-In my spare time, I am an aspiring artist, gamer, and weeb. (That is if I ever have spare time 😩)
+In my spare time, I am an aspiring artist, gamer, and weeb. (If I ever have spare time 😩)
 
 ---
 <!-- Stats Title -->

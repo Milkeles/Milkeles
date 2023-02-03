@@ -5,7 +5,7 @@
 
 <!-- About Me -->
 ---
-  
+  I am a computer science and software engineering enthusiast who is passionate about using technology to design and develop innovative software solutions.
 ---
 <!-- Stats Title -->
 <div align="center">

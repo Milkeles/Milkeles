@@ -18,12 +18,12 @@ In my spare time, I am an aspiring artist, gamer, and weeb (If I ever have spare
 </div>
 
 <!-- Stats1 Table -->
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=milkeles&show_icons=true&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=transparent" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://streak-stats.demolab.com/?user=milkeles&border=7C6BDB&ring=7C6BDB&fire=7C6BDB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7C6BDB&theme=transparent" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=milkeles&show_icons=true&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko" alt="GitHub Stats" /></a> | <a href="#"><img align="center" src="https://streak-stats.demolab.com/?user=milkeles&border=7C6BDB&ring=7C6BDB&fire=7C6BDB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7C6BDB&theme=merko" /></a> |
 | ------------- | ------------- |
 
 <!-- Stats2 Center -->
 <div align = "center">
-   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkeles&layout=compact&show_icons=true&&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=transparent" />
+   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkeles&layout=compact&show_icons=true&&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko" />
 <div>
 
 <!--Trophy Gif-->

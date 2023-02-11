@@ -23,7 +23,7 @@ In my spare time, I am an aspiring artist, gamer, and weeb (If I ever have spare
 
 <!-- Stats2 Center -->
 <div align = "center">
-   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkeles&layout=compact&show_icons=true&&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko" />
+   <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkeles&layout=compact&show_icons=true&&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko&hide=tsql" />
 <div>
 
 <!--Trophy Gif-->

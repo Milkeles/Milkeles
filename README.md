@@ -12,10 +12,10 @@ On the web, I specialize in modern, customer-centric sites that are fast, access
 
 <!-- GitHub Stats + Streak Side-by-Side -->
 <a href="#">
-   <img src="https://github-readme-stats.vercel.app/api?username=milkeles&show_icons=true&include_all_commits=true&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko" alt="GitHub Stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=milkeles&show_icons=true&include_all_commits=true&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko" height="170" alt="GitHub Stats"/>
 </a>
 <a href="#">
-  <img src="https://streak-stats.demolab.com?user=milkeles&border=7C6BDB&ring=7C6BDB&fire=7C6BDB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7C6BDB&theme=merko&cachebust=1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=milkeles&border=7C6BDB&ring=7C6BDB&fire=7C6BDB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7C6BDB&theme=merko&cachebust=1" height="170" alt="GitHub Streak"/>
 </a>
 
 <!-- Most Used Languages -->

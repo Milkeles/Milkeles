@@ -11,10 +11,10 @@ On the web, I specialize in modern, customer-centric sites that are fast, access
 <div align="center">
 
 <!-- GitHub Stats + Streak Side-by-Side -->
-| <a href="#"> <img src="https://github-readme-stats.vercel.app/api?username=milkeles&show_icons=true&include_all_commits=true&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko" alt="GitHub Stats"/> </a> | <a href="#"> <img src="https://streak-stats.demolab.com?user=milkeles&border=7C6BDB&ring=7C6BDB&fire=7C6BDB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7C6BDB&theme=merko&cachebust=1" alt="GitHub Streak"/> </a> |
+| <a href="#"> <img src="https://github-readme-stats-fast.vercel.app/api?username=milkeles&show_icons=true&include_all_commits=true&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko" alt="GitHub Stats"/> </a> | <a href="#"> <img src="https://streak-stats.vercel.app/?user=milkeles&theme=merko&border=7C6BDB&ring=7C6BDB&fire=7C6BDB&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=7C6BDB&cachebust=1" alt="GitHub Streak"/> </a> |
 | ------------- | ------------- |
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milkeles&layout=compact&langs_count=8&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko&hide=tsql,shaderlab,hlsl" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=milkeles&layout=compact&langs_count=8&border_color=7C6BDB&title_color=7C6BDB&text_color=FFFFFF&icon_color=7C6BDB&theme=merko&hide=tsql,shaderlab,hlsl" alt="Top Languages" />
 
 </div>
 
